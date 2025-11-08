@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eifakhan/python-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/eifakhan/python-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
 | ------- |
