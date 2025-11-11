@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eifakhan/python-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/python-practice/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/eifakhan/python-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/eifakhan/python-practice/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/eifakhan/python-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/eifakhan/python-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/eifakhan/python-practice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
